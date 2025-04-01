@@ -1,0 +1,44 @@
+
+Figma link: https://www.figma.com/design/rGsNvlTMpNzGmEjP3sG3b4/Rozdel-Landing-Page?node-id=11-52&t=bTnKE6gKIdYwyCVP-1
+
+
+Font: Roboto (kolchi nafs lfont)
+
+Colors: #FF4500 (borto9ali)
+	#8B0000 (grona)	
+	#D9D9D9 (gri)
+
+
+
+icons:
+
+How does rozdel work section:
+	Flag https://icons8.com/icon/100052/flag
+	Warranty https://icons8.com/icon/61584/warranty
+	Search https://icons8.com/icon/2sWrwEXiaegS/search
+	Sell https://icons8.com/icon/61753/sell
+	Tracking https://icons8.com/icon/61842/tracking
+	Share https://icons8.com/icon/3446/share
+
+Picture Section:
+	Bookmark https://icons8.com/icon/26083/bookmark
+
+Why rozdel Section:
+	Diamond https://icons8.com/icon/100235/diamond
+	Verification Badge https://icons8.com/icon/8jOLgduf9aBf/instagram-verification-badge
+	Shop Log out https://icons8.com/icon/104053/mobile-shop-log-out
+	Fast Cart https://icons8.com/icon/G7PELQpF8j6g/fast-cart
+	Trust https://icons8.com/icon/61093/trust
+
+Picture Section:
+	Bookmark https://icons8.com/icon/26083/bookmark
+
+Community and impact Section:
+	Trust https://icons8.com/icon/61093/trust
+	Sustainability https://icons8.com/icon/77518/sustainability
+	Star https://icons8.com/icon/60003/star
+
+Social Media Section:
+	LinkedIn  https://icons8.com/icon/102748/linkedin-2
+	Facebook https://icons8.com/icon/118467/facebook
+	Instagram https://icons8.com/icon/85140/instagram
