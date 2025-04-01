@@ -877,7 +877,7 @@ h3 {
     width: 76%;
   }
 }
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 600px) {
   body {
     font-size: 14px;
   }
@@ -947,9 +947,9 @@ h3 {
     }
   }
   .bag {
-    min-width: 280px;
+    width: 300px;
     padding: 1rem;
-    margin-left: -1rem;
+    margin-left: 0rem;
     margin-right: 0;
     justify-content: center;
   }
@@ -966,10 +966,10 @@ h3 {
     }
   }
   .bag2 {
-    min-width: 280px;
+    width: 300px;
     padding: 2rem 1rem;
     margin-right: 0;
-    margin-left: -1rem;
+    margin-left: 0rem;
   }
   .aboutfooter {
     width: 100vw;
@@ -1004,8 +1004,7 @@ h3 {
   .type {
     flex-direction: column;
     > p:nth-of-type(1) {
-      margin: 2rem;
-      margin-left: 1rem;
+      margin-block: 2rem;
       width: max-content;
       justify-content: center;
       font-weight: 550;
@@ -1044,7 +1043,7 @@ h3 {
     > img:nth-of-type(1) {
       position: absolute;
       z-index: 3;
-      top: 150px;
+      top: 130px;
       left: 44%;
     }
     > hr:nth-of-type(1) {
@@ -1107,10 +1106,10 @@ h3 {
       margin-top: 1rem;
       padding-top: 1rem;
       display: block;
-      position: absolute;
+      position: relative;
       z-index: 2;
       top: -480px;
-      left: 17%;
+      margin-inline: auto;
       > div {
         display: none;
       }
@@ -1121,7 +1120,7 @@ h3 {
       display: block;
       position: relative;
       z-index: 2;
-      top: -180px;
+      top: -340px;
       margin-inline: auto;
       > div {
         display: none;
@@ -1133,7 +1132,7 @@ h3 {
       display: block;
       position: relative;
       z-index: 2;
-      top: -70px;
+      top: -230px;
       margin-inline: auto;
       > div {
         display: none;
@@ -1145,7 +1144,7 @@ h3 {
       display: block;
       position: relative;
       z-index: 2;
-      top: 40px;
+      top: -120px;
       margin-inline: auto;
       > div {
         display: none;
@@ -1208,6 +1207,7 @@ h3 {
       position: relative;
       margin-inline: auto;
       padding: 0;
+      padding-left: 1rem;
       left: 0;
       display: flex;
       flex-direction: row;
@@ -1229,6 +1229,7 @@ h3 {
       position: relative;
       margin-inline: auto;
       padding: 0;
+      padding-left: 1rem;
       left: 0;
       display: flex;
       flex-direction: row;
@@ -1253,6 +1254,7 @@ h3 {
       left: 0;
       display: flex;
       padding: 0;
+      padding-left: 1rem;
       flex-direction: row;
       height: 80px;
       align-items: center;
